@@ -12,10 +12,8 @@ PS C:\Users\nogw> python .\resize.py
 | frog-resize.jpg  | 283kb |  1000  |  1000 |    yes    |
 +------------------+-------+--------+-------+-----------+
 ```
-<div style="display: flex; justify-content: space-evenly">
-  <h1>original (541kb, 1500x1101)</h1>
-  <h1>resized (283kb, 1000x1000)</h1>
-</div>
+## original (541kb, 1500x1101)
 <img src="./images/frog.jpg" alt="frog" height="200px"/>
 
+## resized (283kb, 1000x1000)
 <img src="./frog-resize.jpg" alt="frog" height="200px"/>
