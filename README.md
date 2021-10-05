@@ -3,7 +3,7 @@
 ### change the size (height, width or size in kb) of all images in a folder and subfolders
 
 ```
-PS C:\Users\nogueira\Desktop\job\resizeimages> python .\resize.py
+PS C:\Users\nogw> python .\resize.py
 
 +-----------+---------+--------+-------+----------+
 |    name   |   size  | height | width | correct? |
